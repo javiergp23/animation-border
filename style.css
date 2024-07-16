@@ -1,0 +1,6 @@
+@import "normalize.css";
+
+@font-face {
+    font-family: "Open Sans";
+    src: url("https://assets.codepen.io/605876/GeistVF.ttf") format("truetype");
+}
